@@ -1,0 +1,66 @@
+body,html{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.menu{
+    width: 20%;
+    float: left;
+    
+}
+.window{
+    width: 80%;
+    float: left;
+}
+.header{
+    height: 150px;
+    background-color: chartreuse;
+}
+.content{
+    padding-top: 50px;
+    min-height: 650px;
+    background-color: gray;
+}
+.footer{
+    height: 150px;
+    background-color: chartreuse;
+}
+.formCars{
+    padding: 20px;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    border: 1px solid white;
+    border-radius: 20px;
+}
+.calcForm{
+    padding: 20px;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    border: 1px solid white;
+    border-radius: 20px;    
+}
+.fprmContact{
+    padding: 20px;
+    width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    border: 1px solid white;
+    border-radius: 20px;        
+}
+.btnOblicz{
+
+}
+.wynik{
+    padding: 10px;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    border: 1px solid black;
+    border-radius: 10px;        
+}
